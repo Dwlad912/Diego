@@ -1,0 +1,28 @@
+Este documento me va mostrar datos acerca de el proyecto de lista de estudiantes
+Author:   Andrango Diego
+Ciudad: Cayambe
+
+
+version 2
+
+Este documento me va mostrar datos acerca de el proyecto de lista de estudiantes
+Estudiente:   Dayana Vargas
+Ciudad: Tabacundo
+
+version 3
+
+Este documento me va mostrar datos acerca de el proyecto de lista de estudiantes
+Estudiente:   Liliana Jaramillio
+Ciudad: Quito
+
+version 4
+
+Este documento me va mostrar datos acerca de el proyecto de lista de estudiantes
+Estudiante:   Arelis Montoya
+Ciudad: Cayambe		
+
+version 5
+
+Este documento me va mostrar datos acerca de el proyecto de lista de estudiantes
+Estudiante:   Diego Flores
+Ciudad: Tabacundo
